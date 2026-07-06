@@ -1,0 +1,8 @@
+venv/
+env/
+__pycache__/
+*.pyc
+*.pt
+*.tflite
+saved_frame_*.jpg
+.DS_Store
